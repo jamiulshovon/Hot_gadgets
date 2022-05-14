@@ -1,0 +1,30 @@
+.bg {
+    background-color:whitesmoke;
+    box-shadow: 5px  5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.carousel-item{
+  padding:40px 0px 0px 40px;
+}
+.container{
+    margin-bottom: 60px;
+}
+
+.b-btn{
+    border: none;
+    border-radius: 5px;
+    background-color: gold;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.card{
+box-shadow: 5px 5px 10px lightgray;
+border: 0px;
+
+}
+.card-footer{
+    border: 0px;
+    background-color: white; 
+}
